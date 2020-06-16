@@ -1,4 +1,4 @@
 <?php
-echo 'test heroki';
+echo 'test heroki lan thu n+1';
   
 ?>
